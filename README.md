@@ -82,7 +82,7 @@
   ✔ Jira
   ✔ Notion
 ```
-
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09907196-80c0-4422-84b0-e86cfb1ab5d0/Untitled.png)
 
 ## 5. 팀원 구성
 

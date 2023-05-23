@@ -2,7 +2,7 @@
 
 ## 1.Overview
 
-<img src="" alt="로고"/>
+<img src="![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbab7254-988d-4131-b714-3579466396cd/Untitled.png)" alt="로고"/>
 
 **서비스 소개**
 
@@ -24,8 +24,12 @@
 
 ## 4. 기술 스택 및 개발 환경
 - IDE
-    - Backend: IntelliJ IDEA 2022.1.3
-    - Frontend: Visual Studio Code 1.78.1
+
+```
+✔ Backend: IntelliJ IDEA 2022.1.3
+✔ Frontend: Visual Studio Code 1.78.1
+```
+
 - Server
 
 ```

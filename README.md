@@ -23,7 +23,61 @@
 
 
 ## 4. 기술 스택 및 개발 환경
+- IDE
+    - Backend: IntelliJ IDEA 2022.1.3
+    - Frontend: Visual Studio Code 1.78.1
+- Server
 
+```
+  ✔ nginx v1.18.0
+  ✔ java v11.0.18
+  ✔ npm v8.19.3
+  ✔ mysql v8.0.32-0
+```
+
+- Data
+
+```
+  ✔ Cassandra
+  ✔ Spark
+```
+
+- Backend
+
+```
+  ✔ JVM 11
+  ✔ Spring boot v2.7.7
+  ✔ gradle 7.6.1
+  ✔ Spring Data JPA
+  ✔ Spring Web
+  ✔ QueryDSL
+  ✔ Swagger v3.0
+  ✔ Lombok
+  ✔ MySQL
+```
+
+- Frontend
+
+```
+  ✔ Visual Studio Code IDE
+  ✔ node v16.18.14 (LTS)
+  ✔ React v^18.0.28 (LTS)
+	✔ TypeScript v^4.9.5
+  ✔ axios v1.3.4
+  ✔ redux v8.0.5
+  ✔ redux-toolkit v1.9.3
+  ✔ typescript v4.9.5
+  ✔ tailwindcss v3.2.7
+	✔ npm v^8.19.3
+```
+
+- 협업툴
+
+```
+  ✔ GitLab
+  ✔ Jira
+  ✔ Notion
+```
 
 
 ## 5. 팀원 구성

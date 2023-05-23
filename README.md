@@ -2,7 +2,7 @@
 
 ## 1.Overview
 
-<img src="![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbab7254-988d-4131-b714-3579466396cd/Untitled.png)" alt="로고"/>
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbab7254-988d-4131-b714-3579466396cd/Untitled.png" alt="로고"/>
 
 **서비스 소개**
 

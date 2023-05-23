@@ -18,9 +18,10 @@
 
 ## 3. 기획 및 개발 일정
 ### Figma
+![캡처](/uploads/12c37671bfe61c95e2a512c3a01a9c64/캡처.PNG)
 
 ### WBS
-
+![Untitled](/uploads/1259c3017274759cf03b7b29ca77b223/Untitled.png)
 
 ## 4. 기술 스택 및 개발 환경
 - IDE
@@ -82,7 +83,7 @@
   ✔ Jira
   ✔ Notion
 ```
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09907196-80c0-4422-84b0-e86cfb1ab5d0/Untitled.png)
+![그림1](/uploads/aa72e7eb7d1adb8472239e3ebcdf0303/그림1.png)
 
 ## 5. 팀원 구성
 

@@ -66,7 +66,8 @@
 ![캡처](/uploads/12c37671bfe61c95e2a512c3a01a9c64/캡처.PNG)
 
 ### 개발 일정
-![Untitled](/uploads/1259c3017274759cf03b7b29ca77b223/Untitled.png)   
+![Untitled](/uploads/1259c3017274759cf03b7b29ca77b223/Untitled.png)  
+![캡처](/uploads/30c753b706e576b97cc44a11369d45ba/캡처.PNG) 
    
 ## 📌 기술 스택 및 개발 환경
 - IDE

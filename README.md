@@ -2,7 +2,7 @@
 
 ## 1.Overview
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbab7254-988d-4131-b714-3579466396cd/Untitled.png)
+![counting_star](/uploads/448acfc8421fc8bb97ac6f294061d1f9/counting_star.png)
 
 **서비스 소개**
 

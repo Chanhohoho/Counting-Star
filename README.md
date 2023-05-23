@@ -86,7 +86,7 @@
   ✔ Jira
   ✔ Notion
 ```
-![그림1](/uploads/aa72e7eb7d1adb8472239e3ebcdf0303/그림1.png)
+![그림1](/uploads/aa72e7eb7d1adb8472239e3ebcdf0303/그림1.png)   
 
 ## 5. 팀원 구성
 

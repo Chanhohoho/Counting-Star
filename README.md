@@ -3,7 +3,7 @@
    
 ## 👀 Overview
 
-![counting_star](/uploads/448acfc8421fc8bb97ac6f294061d1f9/counting_star.png)
+![counting_star](/image/logo.png)
 
 ### 서비스 소개 
 날씨, 대기 질, 빛 공해등의 데이터를 바탕으로 별 보기 좋은 위치 정보와 현재 관측 가능 여부를 점수로 제공하는 서비스
@@ -63,11 +63,11 @@
       
 ## 📌 기획 및 개발 일정
 ### Figma
-![캡처](/uploads/12c37671bfe61c95e2a512c3a01a9c64/캡처.PNG)
+![캡처](/image/Figma.PNG)
 
 ### 개발 일정
-![Untitled](/uploads/1259c3017274759cf03b7b29ca77b223/Untitled.png)  
-![캡처](/uploads/30c753b706e576b97cc44a11369d45ba/캡처.PNG) 
+![Untitled](/image/WBS.png)  
+![캡처](/image/chart.PNG) 
    
 ## 📌 기술 스택 및 개발 환경
 - IDE
@@ -129,10 +129,10 @@
   ✔ Jira
   ✔ Notion
 ```
-![그림1](/uploads/aa72e7eb7d1adb8472239e3ebcdf0303/그림1.png)   
+![그림1](/image/structure.png)   
    
 ## 📌 팀원 구성
-![역할](/uploads/42210904bccaf8f638b1280cfbfc9ec1/역할.PNG)
+![역할](/image/member.PNG)
 
 
 
